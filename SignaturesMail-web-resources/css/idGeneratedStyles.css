@@ -17,7 +17,7 @@
 	font-family: 'Caecilia LT Std Regular';
 	font-style: normal;
 	font-weight: normal;
-	src: url('https://xguix.github.io/ArchitecturalDesign/SignaturesMail-web-resources/fonts/CaeciliaLTStd-Regular.woff') format('woff');
+	src: url('https://xguix.github.io/ArchitecturalDesign/SignaturesMail-web-resources/fonts/CaeciliaLTStd-Roman.woff') format('woff');
 }
 
 @font-face {
@@ -44,9 +44,11 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	text-align: center;
 }
 
+/*
 #Contact {
-	/* Vos styles spécifiques ici */
+	Vos styles spécifiques ici 
 }
+*/
 
 .DivSpacer {
 	margin-bottom: 120px;
