@@ -14,7 +14,7 @@
 }
 
 @font-face {
-	font-family: 'Caecilia LT Std Regular';
+	font-family: 'Caecilia LT Std Roman';
 	font-style: normal;
 	font-weight: normal;
 	src: url('https://xguix.github.io/ArchitecturalDesign/SignaturesMail-web-resources/fonts/CaeciliaLTStd-Roman.woff') format('woff');
@@ -29,7 +29,7 @@
 
 /* Application des polices aux éléments HTML */
 body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
-	font-family: 'Caecilia LT Std Regular', sans-serif;
+	font-family: 'Caecilia LT Std Roman', sans-serif;
 	margin: 0;
 	padding: 0;
 	border-width: 0;
@@ -91,7 +91,7 @@ div.Bloc-de-texte-standard {
 
 p.Paragraphe-standard {
 	color: #000000;
-	font-family: 'Caecilia LT Std Regular', sans-serif;
+	font-family: 'Caecilia LT Std Roman', sans-serif;
 	font-size: 12px;
 	font-style: normal;
 	font-variant: normal;
